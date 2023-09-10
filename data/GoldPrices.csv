@@ -1,0 +1,91 @@
+﻿Year,Gold Prices (London PM Fix),Dow Closing (Dec 31),Inflation (Dec YOY),Factors Influencing Price of Gold
+1929,20.63,248.48,0.0060,Recession.
+1930,20.65,164.58,-0.0640,Deflation.
+1931,17.06,77.90,-0.0930,Depression.
+1932,20.69,59.93,-0.1030,Depression.
+1933,26.33,99.90,0.0080,FDR takes office.
+1934,34.69,104.04,0.0150,Expansion. Gold Reserve Act.
+1935,34.84,144.13,0.0300,Expansion.
+1936,34.87,179.90,0.0140,Expansion.
+1937,34.79,120.85,0.0290,FDR cut spending.
+1938,34.85,154.76,-0.0280,Contraction until June. 
+1939,34.42,150.24,0.0000,Dust Bowl drought ends.
+1940,33.85,131.13,0.0070,Expansion.
+1941,33.85,110.96,0.0990,U.S. enters WWII.
+1942,33.85,119.40,0.0900,Expansion.
+1943,33.85,135.89,0.0300,Expansion.
+1944,33.85,152.32,0.0230,Bretton-Woods Agreement. 
+1945,34.71,192.91,0.0220,Recession follows WWII.
+1946,34.71,177.20,0.1810,Expansion.
+1947,34.71,181.16,0.0880,Expansion.
+1948,34.71,177.30,0.0300,Expansion.
+1949,31.69,200.13,-0.0210,Recession.
+1950,34.72,235.41,0.0590,Expansion. Korean War.
+1951,34.72,269.23,0.0600,Expansion.
+1952,34.6,291.90,0.0080,Expansion.
+1953,34.84,280.90,0.0070,Eisenhower ends Korean War. Recession. 
+1954,35.04,404.39,-0.0070,Contraction ends in May. Dow returns to 1929 high.
+1955,35.03,488.40,0.0040,Expansion.
+1956,34.99,499.47,0.0300,Expansion.
+1957,34.95,435.69,0.0290,Expansion until August. 
+1958,35.1,583.65,0.0180,Contraction until April.
+1959,35.1,679.36,0.0170,Expansion. Fed raises rate.
+1960,35.27,615.89,0.0140,Recession. Fed lowers rate.
+1961,35.25,731.14,0.0070,JFK takes office.
+1962,35.23,652.10,0.0130,Expansion. 
+1963,35.09,762.95,0.0160,LBJ takes office.
+1964,35.1,874.13,0.0100,"""Goldfinger"" depicts plan to control Fort Knox gold."
+1965,35.12,969.26,0.0190,Vietnam War.
+1966,35.13,785.69,0.0350,Expansion. Fed raises rate.
+1967,34.95,905.11,0.0300,Expansion.
+1968,38.69,943.75,0.0470,Expansion. Fed raises rate.
+1969,41.09,800.36,0.0620,Nixon took office. Fed raises rate.
+1970,37.44,838.92,0.0560,Recession. Fed lowers rate.
+1971,43.48,890.20,0.0330,Expansion. Wage-price controls. 
+1972,63.91,1020.02,0.0340,Expansion. Stagflation.
+1973,106.72,850.86,0.0870,Gold standard ends. 
+1974,183.85,616.24,0.1230,Watergate. Ford allows private ownership of gold.
+1975,139.3,852.41,0.0690,"Recession ends. Stocks rise, gold falls."
+1976,133.88,1004.65,0.0490,Expansion. Fed lowers rate.
+1977,160.45,831.17,0.0670,Expansion. Carter takes office.
+1978,207.83,805.01,0.0900,Expansion. 
+1979,455.08,838.71,0.1330,Fed's stop-go policy worsens inflation.
+1980,594.92,963.99,0.1250,Gold hits $850 on 1/21. Investors seek safety.
+1981,410.09,875.00,0.0890,Gold Commission. 
+1982,444.3,1046.54,0.0380,Recession ends. Garn-St. Germain Act. 
+1983,389.36,1258.64,0.0380,Expansion. Reagan increases spending. 
+1984,320.14,1211.57,0.0390,Expansion.
+1985,320.81,1546.67,0.0380,Expansion.
+1986,391.23,1895.95,0.0110,Expansion. Reagan tax cuts.
+1987,486.31,1938.83,0.0440,Expansion. Black Monday crash. 
+1988,418.49,2168.57,0.0440,Expansion. 
+1989,409.39,2753.20,0.0460,S&L Crisis. 
+1990,378.16,2633.66,0.0610,Recession.
+1991,361.06,3168.83,0.0310,Recession ends. 
+1992,334.8,3301.11,0.0290,Expansion.
+1993,383.35,3754.09,0.0270,Expansion.
+1994,379.29,3834.44,0.0270,Expansion.
+1995,387.44,5117.12,0.0250,Expansion.
+1996,369,6448.27,0.0330,Expansion. Investors turn to stocks.
+1997,288.74,7908.25,0.0170,Expansion.
+1998,291.62,9181.43,0.0160,Expansion.
+1999,282.37,11497.12,0.0270,Expansion. Y2K scare.
+2000,274.35,10786.85,0.0340,Stock market peaks in March.
+2001,276.5,10021.50,0.0160,Recession. 9/11.
+2002,347.2,8341.63,0.0240,Expansion. 9-year gold bull market starts.
+2003,416.25,10453.92,0.0190,Expansion.
+2004,435.6,10783.01,0.0330,Expansion.
+2005,513,10717.50,0.0340,Expansion.
+2006,632,12463.15,0.0250,Expansion.
+2007,833.75,13264.82,0.0410,"Dow peaks at 14,164.43."
+2008,869.75,8776.39,0.0010,Recession.
+2009,1087.5,10428.05,0.0270,"Recession ends. Gold hits $1,000/oz. on 2/20."
+2010,1405.5,11577.51,0.0150,Obamacare and Dodd-Frank.
+2011,1531,12217.56,0.0300,"Debt crisis. Gold hits record $1,895 on 9/5."
+2012,1657.6,13104.14,0.0170,Expansion. Gold falls. Stocks rise.
+2013,1202.3,16576.55,0.0150,
+2014,1154.25,17823.07,0.0080,Strong dollar. 
+2015,1061,17425.03,0.0070,"Gold falls to $1,050.60 on 12/17."
+2016,1150.9,19762.60,0.0210,Dollar weakens. 
+2017,1302.5,24719.22,0.0210,Dollar weakens. 
+2018,1281.65,23327.46,,Dollar strengthens.
